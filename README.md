@@ -1,6 +1,6 @@
 # Leet Code Solutions
 
-Problems solved:
+Problems solved (chronological):
 
 - 1- Two Sum
 - 9- Palindrome Number
