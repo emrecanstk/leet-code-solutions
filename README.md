@@ -1,5 +1,8 @@
 # Leet Code Solutions
 
+>I will solve problem everyday and share it in this repo.
+https://leetcode.com/problems 
+
 Problems solved (chronological):
 
 - 1- Two Sum
@@ -8,5 +11,3 @@ Problems solved (chronological):
 - 69- Sqrt(x)
 - 35- Search Insert Position
 - 66- Plus One
-
->https://leetcode.com/problems
