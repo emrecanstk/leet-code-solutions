@@ -13,3 +13,4 @@ Problems solved (chronological):
 - 66- Plus One
 - 169- Majority Element
 - 342- Power of Four
+- 202- Happy Number
