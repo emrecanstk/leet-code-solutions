@@ -15,3 +15,4 @@ Problems solved (chronological):
 - 342- Power of Four
 - 202- Happy Number
 - 50- Pow(x,n)
+- 75- Sort Colors
