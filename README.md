@@ -11,3 +11,4 @@ Problems solved (chronological):
 - 69- Sqrt(x)
 - 35- Search Insert Position
 - 66- Plus One
+- 169- Majority Element
