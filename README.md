@@ -12,3 +12,4 @@ Problems solved (chronological):
 - 35- Search Insert Position
 - 66- Plus One
 - 169- Majority Element
+- 342- Power of Four
