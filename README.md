@@ -14,3 +14,4 @@ Problems solved (chronological):
 - 169- Majority Element
 - 342- Power of Four
 - 202- Happy Number
+- 50- Pow(x,n)
