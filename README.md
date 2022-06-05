@@ -18,3 +18,4 @@ Problems solved (chronological):
 - 75- Sort Colors
 - 13- Roman to Integer
 - 2235- Add Two Integers
+- 1365- How Many Numbers Are Smaller Than the Current Number
