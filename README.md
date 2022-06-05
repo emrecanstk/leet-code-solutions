@@ -1,7 +1,6 @@
 # Leet Code Solutions
 
->I will solve problem everyday and share it in this repo.
-https://leetcode.com/problems 
+>I will solve problem everyday from https://leetcode.com/problems  and share it in this repo.
 
 Problems solved (chronological):
 
