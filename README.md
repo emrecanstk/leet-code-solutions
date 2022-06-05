@@ -19,3 +19,4 @@ Problems solved (chronological):
 - 13- Roman to Integer
 - 2235- Add Two Integers
 - 1365- How Many Numbers Are Smaller Than the Current Number
+- 771- Jewels and Stones
