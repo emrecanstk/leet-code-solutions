@@ -2,7 +2,7 @@
 
 >I will solve problem everyday from https://leetcode.com/problems  and share it in this repo.
 
-Problems solved (chronological):
+Problems solved (chronological)
 
 - 1- Two Sum
 - 9- Palindrome Number
