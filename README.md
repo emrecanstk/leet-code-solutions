@@ -20,3 +20,4 @@ Problems solved (chronological):
 - 1365- How Many Numbers Are Smaller Than the Current Number
 - 771- Jewels and Stones
 - 1929- Concatenation of Array
+- 1480- Running Sum of 1d Array
