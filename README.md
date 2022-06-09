@@ -21,3 +21,4 @@ Problems solved (chronological):
 - 771- Jewels and Stones
 - 1929- Concatenation of Array
 - 1480- Running Sum of 1d Array
+- 1672- Richest Customer Wealth
