@@ -25,3 +25,4 @@ Problems solved (chronological):
 - 1342- Number of Steps to Reduce a Number to Zero
 - 1312- Minimum Insertion Steps to Make a String Palindrome
 - 728- Self Dividing Numbers
+- 1979- Find Greatest Common Divisor of Array
