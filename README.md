@@ -26,3 +26,4 @@ Problems solved (chronological):
 - 1312- Minimum Insertion Steps to Make a String Palindrome
 - 728- Self Dividing Numbers
 - 1979- Find Greatest Common Divisor of Array
+- 2000- Reverse Prefix of Word
