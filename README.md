@@ -28,3 +28,4 @@ Problems solved (chronological):
 - 1979- Find Greatest Common Divisor of Array
 - 2000- Reverse Prefix of Word
 - 344- Reverse String
+- 905- Sort Array by Parity
