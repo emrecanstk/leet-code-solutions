@@ -29,3 +29,4 @@ Problems solved (chronological):
 - 2000- Reverse Prefix of Word
 - 344- Reverse String
 - 905- Sort Array by Parity
+- 46- Permutations
