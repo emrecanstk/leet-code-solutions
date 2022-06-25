@@ -30,3 +30,4 @@ Problems solved (chronological):
 - 344- Reverse String
 - 905- Sort Array by Parity
 - 46- Permutations
+- 349- Intersection of Two Arrays
